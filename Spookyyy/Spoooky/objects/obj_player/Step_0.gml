@@ -26,7 +26,7 @@ if (keyZap && canZap) {
 }
 if (!canZap) {
 	zapTimer += 1;
-	if (zapTimer = 180) {
+	if (zapTimer = 60) {
 		canZap = true;
 		zapTimer = 0;
 	}
