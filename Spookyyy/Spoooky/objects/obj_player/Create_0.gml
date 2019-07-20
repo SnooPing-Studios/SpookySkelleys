@@ -6,3 +6,4 @@ vsp = 0;
 sp  = 6;
 canZap = true;
 zapTimer = 0;
+rescale(1/8);
