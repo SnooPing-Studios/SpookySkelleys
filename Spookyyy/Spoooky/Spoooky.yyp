@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "1a018ac8-fcc8-438f-ae21-45ff53e7bbfe",
+            "Value": {
+                "id": "8ed4b267-4632-495c-a622-3fdd2b9959a0",
+                "resourcePath": "sprites\\Spr_mainMenuBkg\\Spr_mainMenuBkg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "210728fd-937d-47cd-a704-b8a74d44686d",
             "Value": {
                 "id": "acd50af4-e772-4c6a-ab66-5cff6be171e2",
@@ -87,10 +95,26 @@
             }
         },
         {
+            "Key": "407eaba6-c39c-4c98-9ea1-8e19e3333aa0",
+            "Value": {
+                "id": "dc728eaf-a05b-4479-af6d-142310c78ec8",
+                "resourcePath": "objects\\obj_StartButton\\obj_StartButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "418b2d4c-20cc-417c-b336-2d8ecca5b028",
             "Value": {
                 "id": "af986e65-f2fb-4e2a-97ba-841a7a3fab7c",
                 "resourcePath": "views\\418b2d4c-20cc-417c-b336-2d8ecca5b028.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "41eb7591-849a-450c-a3f2-5685922e3956",
+            "Value": {
+                "id": "8c7ee134-00b2-4aa8-ab17-82800104c785",
+                "resourcePath": "views\\41eb7591-849a-450c-a3f2-5685922e3956.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -108,6 +132,14 @@
                 "id": "960bbd62-129c-4a6e-88cf-4a254e6535a6",
                 "resourcePath": "views\\4945a271-8c95-4df6-b0f5-0b044745be12.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4ee8b89b-cab3-4603-aaff-e19900b124e0",
+            "Value": {
+                "id": "67b371b3-83db-4a94-931c-ca84de2005bc",
+                "resourcePath": "sprites\\Button\\Button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -292,6 +324,14 @@
                 "id": "ea15ce96-687a-4143-a227-89a9abfa1229",
                 "resourcePath": "views\\d384bb3b-00d9-4122-ac53-6ca7bba12167.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7f344f4-2db3-4f3f-b2e3-2a8c2d243d29",
+            "Value": {
+                "id": "4cc1c8cd-6fba-408a-8dc4-1ed1f935f7f4",
+                "resourcePath": "rooms\\MainMenu\\MainMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
