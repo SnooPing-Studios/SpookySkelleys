@@ -1,23 +1,14 @@
 {
-    "id": "3794e1f7-c57d-4ea8-b01a-f00236684336",
+    "id": "870fcf2e-d301-4feb-8cb4-cc1c8b4e69da",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_skull",
+    "name": "obj_leftHand",
     "eventList": [
-        {
-            "id": "1e6de008-1604-44f3-a0f2-f83302e985f8",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "3794e1f7-c57d-4ea8-b01a-f00236684336"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "8c626345-85fe-43ad-8801-5e6ade346cd4",
+    "parentObjectId": "0130fca9-70dc-495a-ba29-61fc4daa0070",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e1029447-feb4-4f40-a15a-266d02a7f9a9",
+    "spriteId": "e1ed6206-6dfe-4e3e-90d2-086017a1751f",
     "visible": true
 }
