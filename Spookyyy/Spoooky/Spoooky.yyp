@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "210728fd-937d-47cd-a704-b8a74d44686d",
+            "Value": {
+                "id": "acd50af4-e772-4c6a-ab66-5cff6be171e2",
+                "resourcePath": "objects\\obj_screen\\obj_screen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "24f3686f-b841-4886-93cd-1e6ff8af8315",
             "Value": {
                 "id": "4aff9533-ba3a-4ed0-9fef-2bb578239208",
@@ -71,9 +79,9 @@
             }
         },
         {
-            "Key": "6a53dd2b-07a7-4cf1-80c9-12931a3050b2",
+            "Key": "5efaa8ec-ed89-42ae-9d87-6d69b8792c2e",
             "Value": {
-                "id": "1c2621eb-1a52-4b64-8543-ff2eb9d41d93",
+                "id": "482b9043-4e24-4483-a823-2480e49dfb4e",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
             }
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "f8e0345b-7600-4725-9230-263d7b686751",
+            "Value": {
+                "id": "9e187d8a-6779-44a3-bd49-44ab7f5e7269",
+                "resourcePath": "scripts\\scr_keyboardControls\\scr_keyboardControls.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fde108dd-cbe0-42d4-88e4-ce99bfce3cab",
             "Value": {
                 "id": "88e8de8e-4269-4886-a5c9-43d19cd6d3d4",
@@ -208,7 +224,7 @@
         }
     ],
     "script_order": [
-        
+        "f8e0345b-7600-4725-9230-263d7b686751"
     ],
     "tutorial": ""
 }
