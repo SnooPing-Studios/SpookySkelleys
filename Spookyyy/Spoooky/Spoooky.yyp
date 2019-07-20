@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "e6d9ce1d-5318-4108-b769-f029f4091b6f",
+            "Value": {
+                "id": "6fae9251-2822-470a-b3c5-d7c6d221ea08",
+                "resourcePath": "sounds\\Mjar\\Mjar.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "f14a3910-386a-4edd-b123-9ff6e9ba112d",
             "Value": {
                 "id": "585601c8-03b5-4d96-b1b4-d387f7ba0992",

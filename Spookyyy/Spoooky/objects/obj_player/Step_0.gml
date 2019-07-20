@@ -22,6 +22,7 @@ if(keyUp) {
 
 if (keyZap && canZap) {
 	instance_create_layer(x,y,"Magic",obj_Zap);
+	audio_play_sound(Mjar,0,0);
 	canZap = false;
 }
 if (!canZap) {
